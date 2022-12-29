@@ -11,7 +11,7 @@ function App() {
     <div className="App">
      <div className="container mx-auto px-4">
      <Avatar
-  img="./MD-LinkedIn-Profile.jpg"
+  img="MD-LinkedIn-Profile.jpg"
   rounded={true} size="lg"
 >
   <div className="space-y-1 font-medium dark:text-white">
