@@ -6,7 +6,7 @@ The task was to create a CV using React. I have choosen Flowbite React Component
 
 ## 🖥️ Demo
 
-[React-CV](https://maciejapp.github.io/xxx/)
+[React-CV](https://maciej-react-cv.netlify.app/)
 
 ## 📇 Contact Details
 
